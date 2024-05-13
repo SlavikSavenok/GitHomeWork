@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2e56368-dec9-4e11-9971-67a6d02d8bcf" name="Changes" comment="Создал массив [5][5] и вывел его диагонали.">
+    <list default="true" id="a2e56368-dec9-4e11-9971-67a6d02d8bcf" name="Changes" comment="Изменил заглавную букву diagonal в 3-м задании.&#10;Изменил название массива на более полное в 1-м задании (если именно это подразумевалось &quot;There are no massiv word, again&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QA_27_0_Savenok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715598228623</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Изменил заглавную букву diagonal в 3-м задании.&#10;Изменил название массива на более полное в 1-м задании (если именно это подразумевалось &quot;There are no massiv word, again&quot;">
+      <option name="closed" value="true" />
+      <created>1715604399895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715604399895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +171,7 @@
     <MESSAGE value="Создал массив [8][8] из букв W &amp; B." />
     <MESSAGE value="Создал массив [5][5] и вывел сумму элементов." />
     <MESSAGE value="Создал массив [5][5] и вывел его диагонали." />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал массив [5][5] и вывел его диагонали." />
+    <MESSAGE value="Изменил заглавную букву diagonal в 3-м задании.&#10;Изменил название массива на более полное в 1-м задании (если именно это подразумевалось &quot;There are no massiv word, again&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменил заглавную букву diagonal в 3-м задании.&#10;Изменил название массива на более полное в 1-м задании (если именно это подразумевалось &quot;There are no massiv word, again&quot;" />
   </component>
 </project>

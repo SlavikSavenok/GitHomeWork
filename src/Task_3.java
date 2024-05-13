@@ -25,12 +25,9 @@ public class Task_3 {
         System.out.println(" ");
         System.out.println("Вторая диагональ: ");
         for (int i = 0; i < massivForDiagonals.length; i++) {
-            for (int j = 0; j < massivForDiagonals.length; j++) {
-                if (j == massivForDiagonals.length - i - 1) {
-                    System.out.print(massivForDiagonals[i][j] + " ");
-
-                }
-            }
+            int diagonalToo = massivForDiagonals[i][massivForDiagonals.length - i - 1];
+            System.out.print(diagonalToo +" ");
         }
     }
 }
+
