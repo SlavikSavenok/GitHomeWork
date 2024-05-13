@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e56368-dec9-4e11-9971-67a6d02d8bcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QA_27_0_Savenok.java" afterDir="false" />
+    <list default="true" id="a2e56368-dec9-4e11-9971-67a6d02d8bcf" name="Changes" comment="Создал массив [8][8] из букв W &amp; B.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -24,13 +36,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.QA_27_0_Savenok.executor": "Run",
+    "Application.Task_1.executor": "Run",
+    "Application.Task_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Task__1",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Project/GitHomeWork/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task_1">
+  <component name="RunManager" selected="Application.Task_2">
     <configuration name="QA_27_0_Savenok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QA_27_0_Savenok" />
       <module name="GitHomeWork" />
@@ -45,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_2" />
+      <module name="GitHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_2" />
         <item itemvalue="Application.Task_1" />
         <item itemvalue="Application.QA_27_0_Savenok" />
       </list>
@@ -61,7 +85,43 @@
       <option name="presentableId" value="Default" />
       <updated>1715597407305</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создал массив [8][8] из букв W &amp; B.">
+      <option name="closed" value="true" />
+      <created>1715597757136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715597757136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Task_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создал массив [8][8] из букв W &amp; B." />
+    <option name="LAST_COMMIT_MESSAGE" value="Создал массив [8][8] из букв W &amp; B." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
