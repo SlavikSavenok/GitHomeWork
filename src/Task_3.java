@@ -17,9 +17,9 @@ public class Task_3 {
         }
         System.out.println("Перая диагональ: ");
         for (int i = 0; i < massivForDiagonals.length; i++) {
-            int Diagonal;
-            Diagonal = massivForDiagonals[i][i];
-            System.out.print(Diagonal + " ");
+            int diagonal;
+            diagonal = massivForDiagonals[i][i];
+            System.out.print(diagonal + " ");
 
         }
         System.out.println(" ");
