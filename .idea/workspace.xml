@@ -30,6 +30,28 @@
     "onboarding.tips.debug.path": "D:/Project/GitHomeWork/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Task_1">
+    <configuration name="QA_27_0_Savenok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QA_27_0_Savenok" />
+      <module name="GitHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_1" />
+      <module name="GitHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task_1" />
+        <item itemvalue="Application.QA_27_0_Savenok" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
