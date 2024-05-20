@@ -1,15 +1,12 @@
 package HomeWorK_6_1;
 
-import java.io.FileNotFoundException;
-import java.io.PrintStream;
-
 public class LivingSpase {
 
+    public Owner owner;
+    public Client client;
     private int id;
     private int apartamentArea;
     private double costPerMonth;
-    public Owner owner;
-    public Client client;
 
     public LivingSpase(int id, int apartamentArea, double costPerMonth) {
         this.id = id;
@@ -62,6 +59,7 @@ public class LivingSpase {
     public void setClient(Client client) {
         this.client = client;
     }
+
     public void apartmentOne() {
         System.out.println("Информация о квартире №1: id " + id + ". Площадь квартиры: " + apartamentArea + ". Стоимость аренды: " + costPerMonth);
     }
