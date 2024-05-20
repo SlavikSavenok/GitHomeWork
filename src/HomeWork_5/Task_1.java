@@ -1,3 +1,5 @@
+package HomeWork_5;
+
 import java.util.Arrays;
 
 public class Task_1 {
