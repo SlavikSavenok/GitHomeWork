@@ -4,6 +4,11 @@ public class Director implements WorkOnPosition {
     private String name;
     private int salary;
 
+    public Director(String name, int salary) {
+        this.name = name;
+        this.salary = salary;
+    }
+
     public String getName() {
         return this.name;
     }
@@ -20,12 +25,7 @@ public class Director implements WorkOnPosition {
         this.salary = salary;
     }
 
-    public Director(String name, int salary) {
-        this.name = name;
-        this.salary = salary;
-    }
-
-    public String getPosition() {
+    public String getsPosition() {
         System.out.println("Job title: Director");
         return "";
     }
