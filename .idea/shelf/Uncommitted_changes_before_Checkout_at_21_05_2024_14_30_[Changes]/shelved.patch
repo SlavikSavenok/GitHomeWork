@@ -1,0 +1,103 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a2e56368-dec9-4e11-9971-67a6d02d8bcf\" name=\"Changes\" comment=\"Создал класс для описания жилплощади, класс клиента и клас владельца.&#10;Создал обьекты (квартира1,квартира2) и вывел на консоль информацию припомощи 2-х конструкторов.\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/HomeWorK_6/CreditCard.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWorK_6_0/CreditCard.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/HomeWorK_6/HomeWork_6.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWorK_6_0/HomeWork_6.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/HomeWorK_6_1/HomeWork_6_1.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWorK_6_1/HomeWork_6_1.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/HomeWorK_6_1/LivingSpase.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWorK_6_1/LivingSpase.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Task_0.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWork_5/Task_0.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Task_1.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWork_5/Task_1.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Task_2.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWork_5/Task_2.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Task_3.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/HomeWork_5/Task_3.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;SlavikSavenok&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/SlavikSavenok/GitHomeWork.git&quot;,\r\n    &quot;accountId&quot;: &quot;82032c25-46c0-44db-9103-7ac662c2ecd2&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2gPRp5ystplubxqsHRXJwKCo5g3\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.HomeWork_6.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.HomeWork_6_1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.QA_27_0_Savenok.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Task_3.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;#3 on HomeWork__6&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Project/GitHomeWork/src/Main.java&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.HomeWork_6_1\">\r\n    <configuration name=\"HomeWork_6\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"HomeWorK_6_0.HomeWork_6\" />\r\n      <module name=\"GitHomeWork\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"HomeWorK_6_1.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"HomeWork_6_1\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"HomeWorK_6_1.HomeWork_6_1\" />\r\n      <module name=\"GitHomeWork\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"HomeWorK_6_1.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task_1\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Task_1\" />\r\n      <module name=\"GitHomeWork\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task_2\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Task_2\" />\r\n      <module name=\"GitHomeWork\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task_3\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Task_3\" />\r\n      <module name=\"GitHomeWork\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.HomeWork_6_1\" />\r\n        <item itemvalue=\"Application.HomeWork_6\" />\r\n        <item itemvalue=\"Application.Task_3\" />\r\n        <item itemvalue=\"Application.Task_2\" />\r\n        <item itemvalue=\"Application.Task_1\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a2e56368-dec9-4e11-9971-67a6d02d8bcf\" name=\"Changes\" comment=\"\" />\r\n      <created>1715597407305</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1715597407305</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Создал массив [8][8] из букв W &amp; B.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715597757136</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715597757136</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Создал массив [5][5] и вывел сумму элементов.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715598007765</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715598007765</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Создал массив [5][5] и вывел его диагонали.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715598228623</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715598228623</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Изменил заглавную букву diagonal в 3-м задании.&#10;Изменил название массива на более полное в 1-м задании (если именно это подразумевалось &quot;There are no massiv word, again&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715604399895</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715604399895</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Создал три обЪекта(Credit Card), вывел данные на консоль. &#10;Создал методы для депозита, вывода, просмотра информации о карточках.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716045977266</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716045977266</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Создал класс для описания жилплощади, класс клиента и клас владельца.&#10;Создал обьекты (квартира1,квартира2) и вывел на консоль информацию припомощи 2-х конструкторов.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716079219554</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716079219554</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/HomeWork_6\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Создал массив [8][8] из букв W &amp; B.\" />\r\n    <MESSAGE value=\"Создал массив [5][5] и вывел сумму элементов.\" />\r\n    <MESSAGE value=\"Создал массив [5][5] и вывел его диагонали.\" />\r\n    <MESSAGE value=\"Изменил заглавную букву diagonal в 3-м задании.&#10;Изменил название массива на более полное в 1-м задании (если именно это подразумевалось &quot;There are no massiv word, again&quot;\" />\r\n    <MESSAGE value=\"Создал три обЪекта(Credit Card), вывел данные на консоль. &#10;Создал методы для депозита, вывода, просмотра информации о карточках.\" />\r\n    <MESSAGE value=\"Создал класс для описания жилплощади, класс клиента и клас владельца.&#10;Создал обьекты (квартира1,квартира2) и вывел на консоль информацию припомощи 2-х конструкторов.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Создал класс для описания жилплощади, класс клиента и клас владельца.&#10;Создал обьекты (квартира1,квартира2) и вывел на консоль информацию припомощи 2-х конструкторов.\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2736badc063bcda2a690fd5d6672cc5f252bfbcb)
++++ b/.idea/workspace.xml	(date 1716290947176)
+@@ -72,6 +72,19 @@
+   }
+ }</component>
+   <component name="RunManager" selected="Application.HomeWork_6_1">
++    <configuration name="HomeWork_5.Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="HomeWork_5.Task_1" />
++      <module name="GitHomeWork" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="HomeWork_5.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="HomeWork_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="HomeWorK_6_0.HomeWork_6" />
+       <module name="GitHomeWork" />
+@@ -98,13 +111,6 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Task_1" />
+-      <module name="GitHomeWork" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+     <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="Task_2" />
+       <module name="GitHomeWork" />
+@@ -122,10 +128,10 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="Application.HomeWork_6_1" />
++        <item itemvalue="Application.HomeWork_5.Task_1" />
+         <item itemvalue="Application.HomeWork_6" />
+         <item itemvalue="Application.Task_3" />
+         <item itemvalue="Application.Task_2" />
+-        <item itemvalue="Application.Task_1" />
+       </list>
+     </recent_temporary>
+   </component>
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_22\" default=\"true\" project-jdk-name=\"22\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 2736badc063bcda2a690fd5d6672cc5f252bfbcb)
++++ b/.idea/misc.xml	(date 1716290890302)
+@@ -1,5 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="ExcludeFromValidation">
++    <file url="file://$PROJECT_DIR$/.idea/workspace.xml" />
++  </component>
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+Index: src/HomeWork_7_2/Director.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/HomeWork_7_2/Director.java b/src/HomeWork_7_2/Director.java
+new file mode 100644
+--- /dev/null	(date 1716291050328)
++++ b/src/HomeWork_7_2/Director.java	(date 1716291050328)
+@@ -0,0 +1,4 @@
++package HomeWork_7_2;
++
++public class Director {
++}
+Index: src/HomeWork_7_2/HomeWork_7_2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/HomeWork_7_2/HomeWork_7_2.java b/src/HomeWork_7_2/HomeWork_7_2.java
+new file mode 100644
+--- /dev/null	(date 1716291050313)
++++ b/src/HomeWork_7_2/HomeWork_7_2.java	(date 1716291050313)
+@@ -0,0 +1,4 @@
++package HomeWork_7_2;
++
++public class HomeWork_7_2 {
++}

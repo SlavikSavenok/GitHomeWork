@@ -4,6 +4,11 @@ public class Accountant implements WorkOnPosition {
     private String name;
     private int salary;
 
+    public Accountant(String name, int salary) {
+        this.name = name;
+        this.salary = salary;
+    }
+
     public String getName() {
         return this.name;
     }
@@ -20,12 +25,7 @@ public class Accountant implements WorkOnPosition {
         this.salary = salary;
     }
 
-    public Accountant(String name, int salary) {
-        this.name = name;
-        this.salary = salary;
-    }
-
-    public String getPosition() {
+    public String getsPosition() {
         System.out.println("Job title: Accountant");
         return "";
     }
