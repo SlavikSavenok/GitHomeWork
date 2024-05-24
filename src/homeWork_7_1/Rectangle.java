@@ -27,7 +27,7 @@ public class Rectangle implements CalculatePerimeter, CalculateSquar{
 
     @Override
     public double getPerimeter() {
-        return sideA+sideB+sideB+sideA;
+        return (sideA+sideB)*2;
     }
 
     @Override

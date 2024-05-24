@@ -1,7 +1,7 @@
 package homeWork_7_1;
 
 public class Circle implements CalculatePerimeter,CalculateSquar {
-    double diametr;
+
     double radius;
 
     public double getRadius() {
@@ -11,23 +11,13 @@ public class Circle implements CalculatePerimeter,CalculateSquar {
     public void setRadius(double radius) {
         this.radius = radius;
     }
-
-    public double getDiametr() {
-        return diametr;
-    }
-
-    public void setDiametr(double diametr) {
-        this.diametr = diametr;
-    }
-
-    public Circle(double diametr, double radius) {
-        this.diametr = diametr;
+    public Circle(double radius) {
         this.radius = radius;
     }
 
     @Override
     public double getPerimeter() {
-        return diametr*Math.PI;
+        return (radius*2)*Math.PI;
     }
 
     @Override
