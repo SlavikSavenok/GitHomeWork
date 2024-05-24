@@ -4,47 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2e56368-dec9-4e11-9971-67a6d02d8bcf" name="Changes" comment="Created a hierarchy of the shape class, created an array (size from the &#10;console) and displayed the sum of the perimeters of the shapes in the &#10;array.">
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/ActionsAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Lama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Python.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Raven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork_7_3/Rhinoceros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_13_35_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_13_35__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_20_31_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_20_31_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_20_31__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_20_31__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_20_32_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_05_2024_20_32__Changes_.xml" beforeDir="false" />
+    <list default="true" id="a2e56368-dec9-4e11-9971-67a6d02d8bcf" name="Changes" comment="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorK_6_0/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWorK_6_0/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorK_6_0/HomeWork_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWorK_6_0/HomeWork_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorK_6_1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWorK_6_1/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorK_6_1/HomeWork_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWorK_6_1/HomeWork_6_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorK_6_1/LivingSpase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWorK_6_1/LivingSpase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorK_6_1/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWorK_6_1/Owner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_5/Task_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_5/Task_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_5/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_5/Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_5/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_5/Task_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_5/Task_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_5/Task_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_1/CalculatePerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/CalculatePerimeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_1/CalculateSquar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/CalculateSquar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_1/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_2/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_2/Accountant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_2/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_2/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_2/HomeWork_7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_2/HomeWork_7_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_2/WorkOnPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_2/WorkOnPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork_7_2/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_2/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork_7_1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork_7_1/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +76,7 @@
     "onboarding.tips.debug.path": "D:/Project/GitHomeWork/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.homeWork_7_3.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Figures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork_7_1.Figures" />
       <module name="GitHomeWork" />
@@ -181,8 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homeWork_7_3.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.homeWork_7_3.Main" />
         <item itemvalue="Application.Figures" />
         <item itemvalue="Application.HW" />
         <item itemvalue="Application.HomeWork_7_1" />
@@ -270,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716428505309</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user">
+      <option name="closed" value="true" />
+      <created>1716578842399</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716578842399</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,7 +276,8 @@
     <MESSAGE value="Создал класс для описания жилплощади, класс клиента и клас владельца.&#10;Создал обьекты (квартира1,квартира2) и вывел на консоль информацию припомощи 2-х конструкторов." />
     <MESSAGE value="Created three classes, created an interface with a method and implied &#10;it into classes" />
     <MESSAGE value="Created a hierarchy of the shape class, created an array (size from the &#10;console) and displayed the sum of the perimeters of the shapes in the &#10;array." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a hierarchy of the shape class, created an array (size from the &#10;console) and displayed the sum of the perimeters of the shapes in the &#10;array." />
+    <MESSAGE value="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

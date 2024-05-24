@@ -8,7 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Rectangle rectangle = new Rectangle(2, 3);
         Triangle triangle = new Triangle(3, 2, 2, 1.98);
-        Circle circle = new Circle(3.2, 6.4);
+        Circle circle = new Circle(3.2);
         System.out.println("The area of the figures is: Rectangle=" + rectangle.getSquar() + " Triangle=" + triangle.getSquar() + " Circle=" + circle.getSquar());
 
         System.out.print("Enter array size array: ");
@@ -32,7 +32,7 @@ public class Main {
 
         int randomFlag = random.nextInt(4);
         if (randomFlag == 0)
-            return new Circle(3.2, 6.4);
+            return new Circle(3.2);
         if (randomFlag == 1)
             return new Rectangle(2, 3);
         else return new Triangle(3, 2, 2, 1.98);

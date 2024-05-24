@@ -53,6 +53,6 @@ public class Triangle implements CalculatePerimeter,CalculateSquar {
 
     @Override
     public double getSquar() {
-        return  sideA /2*height;
+        return  height/2*sideA;
     }
 }
