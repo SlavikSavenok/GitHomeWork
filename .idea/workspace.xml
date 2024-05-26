@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
+    <list default="true" id="a2e56368-dec9-4e11-9971-67a6d02d8bcf" name="Changes" comment="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork_7_1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork_7_1/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork_7_1/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,15 +51,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Figures.executor": "Run",
+    "Application.HW.executor": "Run",
+    "Application.HW_3_Task_6.executor": "Run",
+    "Application.HomeWork_5.Task_1.executor": "Run",
+    "Application.HomeWork_6.executor": "Run",
+    "Application.HomeWork_6_1.executor": "Run",
+    "Application.HomeWork_7_1.executor": "Run",
+    "Application.HomeWork_7_2.executor": "Run",
+    "Application.HomeWork_7_3.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.QA_27_0_Savenok.executor": "Run",
+    "Application.Task_1.executor": "Run",
+    "Application.Task_2.executor": "Run",
+    "Application.Task_3.executor": "Run",
+    "Application.homeWork_7_3.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "#4 on HomeWorK__7",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Project/GitHomeWork/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Figures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_7_1.Figures" />
       <module name="GitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork_7_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_7_1.HW" />
+      <module name="GitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork_7_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork_7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_7_1.HomeWork_7_1" />
+      <module name="GitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork_7_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork_7_1.Main" />
+      <module name="GitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork_7_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeWork_7_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork_7_3.Main" />
+      <module name="GitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork_7_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.homeWork_7_3.Main" />
+        <item itemvalue="Application.Figures" />
+        <item itemvalue="Application.HW" />
+        <item itemvalue="Application.HomeWork_7_1" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +209,39 @@
       <option name="project" value="LOCAL" />
       <updated>1716079219554</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created three classes, created an interface with a method and implied &#10;it into classes">
+      <option name="closed" value="true" />
+      <created>1716291515470</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716291515470</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created three classes, created an interface with a method and implied &#10;it into classes">
+      <option name="closed" value="true" />
+      <created>1716291951698</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716291951698</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created a hierarchy of the shape class, created an array (size from the &#10;console) and displayed the sum of the perimeters of the shapes in the &#10;array.">
+      <option name="closed" value="true" />
+      <created>1716428505309</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716428505309</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user">
+      <option name="closed" value="true" />
+      <created>1716578842399</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716578842399</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,7 +255,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-<
+                        <option value="HomeWorK_7" />
                       </list>
                     </value>
                   </entry>
@@ -141,6 +266,29 @@
         </entry>
       </map>
     </option>
-
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создал массив [8][8] из букв W &amp; B." />
+    <MESSAGE value="Создал массив [5][5] и вывел сумму элементов." />
+    <MESSAGE value="Создал массив [5][5] и вывел его диагонали." />
+    <MESSAGE value="Изменил заглавную букву diagonal в 3-м задании.&#10;Изменил название массива на более полное в 1-м задании (если именно это подразумевалось &quot;There are no massiv word, again&quot;" />
+    <MESSAGE value="Создал три обЪекта(Credit Card), вывел данные на консоль. &#10;Создал методы для депозита, вывода, просмотра информации о карточках." />
+    <MESSAGE value="Создал класс для описания жилплощади, класс клиента и клас владельца.&#10;Создал обьекты (квартира1,квартира2) и вывел на консоль информацию припомощи 2-х конструкторов." />
+    <MESSAGE value="Created three classes, created an interface with a method and implied &#10;it into classes" />
+    <MESSAGE value="Created a hierarchy of the shape class, created an array (size from the &#10;console) and displayed the sum of the perimeters of the shapes in the &#10;array." />
+    <MESSAGE value="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сreated a hierarchy of animals,created an array of them with&#10;output to the console, added a choice of actions for the user" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/homeWork_7_1/Triangle.java</url>
+          <line>5</line>
+          <properties field="sdeC" class="homeWork_7_1.Triangle" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

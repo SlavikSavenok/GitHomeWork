@@ -1,4 +1,4 @@
-package HomeWorK_6_1;
+package homeWorK_6_1;
 
 public class LivingSpase {
 

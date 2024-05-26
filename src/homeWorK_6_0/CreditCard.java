@@ -1,4 +1,4 @@
-package HomeWorK_6_0;
+package homeWorK_6_0;
 
 public class CreditCard {
     private final String cardNumber;
