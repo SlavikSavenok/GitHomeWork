@@ -1,13 +1,8 @@
-package homeWork_7_2;
+package HomeWork_7_2;
 
 public class Accountant implements WorkOnPosition {
     private String name;
     private int salary;
-
-    public Accountant(String name, int salary) {
-        this.name = name;
-        this.salary = salary;
-    }
 
     public String getName() {
         return this.name;
@@ -25,7 +20,12 @@ public class Accountant implements WorkOnPosition {
         this.salary = salary;
     }
 
-    public String getsPosition() {
+    public Accountant(String name, int salary) {
+        this.name = name;
+        this.salary = salary;
+    }
+
+    public String getPosition() {
         System.out.println("Job title: Accountant");
         return "";
     }
