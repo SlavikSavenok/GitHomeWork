@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class BaseConverter {
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         Celsius celsius = new Celsius();
         Fahrenheit fahrenheit = new Fahrenheit();
@@ -13,7 +14,7 @@ public class BaseConverter {
         double temp = scanner.nextDouble();
 
 
-
+        System.out.println("The degrees is: "+ Degrees.getCovert(temp));
         System.out.println("The temperature in Celsius is: " + celsius.getCovert(temp));
         System.out.println("The temperature in Fahrenheit is: " + fahrenheit.getCovert(temp));
         System.out.println("The temperature in Kelvin is: " + kelvin.getCovert(temp));

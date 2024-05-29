@@ -1,4 +1,6 @@
-package HomeWork_7_2;
+package homeWork_7_2;
+
+import homeWork_7_2.WorkOnPosition;
 
 public class Worker implements WorkOnPosition {
     private String name;
@@ -27,6 +29,11 @@ public class Worker implements WorkOnPosition {
 
     public String getPosition() {
         System.out.println("Job title: Worker");
+        return "";
+    }
+
+    @Override
+    public String getsPosition() {
         return "";
     }
 }

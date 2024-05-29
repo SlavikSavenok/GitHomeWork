@@ -1,6 +1,6 @@
 package homeWork_8_1;
 
-public class Celsius implements Converter {
+public class Celsius implements Convert {
 
     public Celsius() {
     }

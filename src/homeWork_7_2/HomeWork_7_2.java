@@ -1,4 +1,4 @@
-package HomeWork_7_2;
+package homeWork_7_2;
 
 public class HomeWork_7_2 {
     public HomeWork_7_2() {
