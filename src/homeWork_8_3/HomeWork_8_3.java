@@ -65,7 +65,8 @@ public class HomeWork_8_3 {
             return AnimalEnum.PEGASUS;
         if (selectFlag == 4)
             return LEVIATHAN;
-        else return AnimalEnum.PHOENIX;
+        else
+            return AnimalEnum.PHOENIX;
     }
 }
 

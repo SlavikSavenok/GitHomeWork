@@ -1,6 +1,6 @@
 package homeWork_8_1;
 
-public interface Converter {
+public interface Convert {
 
     double getCovert(double temp);
 }

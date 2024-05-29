@@ -1,6 +1,6 @@
 package homeWork_8_1;
 
-public class Kelvin implements Converter {
+public class Kelvin implements Convert {
 
     public Kelvin() {
     }

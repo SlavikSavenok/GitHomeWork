@@ -1,13 +1,12 @@
 package homeWork_8_3;
 
 public enum AnimalEnum implements Action {
-    UNICORN(),
-    PHOENIX(),
-    KRAKEN(),
-    PEGASUS(),
-    CERBERUS(),
-    LEVIATHAN();
-    boolean canSwim;
+    UNICORN,
+    PHOENIX,
+    KRAKEN,
+    PEGASUS,
+    CERBERUS,
+    LEVIATHAN;
 
     AnimalEnum() {
 
@@ -15,22 +14,22 @@ public enum AnimalEnum implements Action {
 
     @Override
     public String getEat() {
-        return name() + " eating";
+        return name() + " eat";
     }
 
     @Override
     public String getSwim() {
-        return name() + " swimming";
+        return name() + " swim";
     }
 
     @Override
     public String getFly() {
-        return name() + " flying";
+        return name() + " fly";
     }
 
     @Override
     public String getSay() {
-        return name() + " saying";
+        return name() + " say";
     }
 }
 

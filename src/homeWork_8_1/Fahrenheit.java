@@ -1,6 +1,6 @@
 package homeWork_8_1;
 
-public class Fahrenheit implements Converter {
+public class Fahrenheit implements Convert {
 
     public Fahrenheit() {
     }
