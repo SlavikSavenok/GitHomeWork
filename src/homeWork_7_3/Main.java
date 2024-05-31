@@ -1,22 +1,26 @@
 package homeWork_7_3;
 
+import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
+
 
 public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        Fish fish = new Fish("Fish", 1);
-        Cat cat = new Cat("Cat", 2);
-        Raven raven = new Raven("Raven", 3);
-        Python python = new Python("Python", 4);
-        Rhinoceros rhinoceros = new Rhinoceros("Rhinoceros", 5);
-        Lama lama = new Lama("Lama", 6);
-
         System.out.print("Select array size: ");
-        int size = scanner.nextInt();
+
+        int size = -1;
+
+        try {
+            size = scanner.nextInt();
+            Animal[] animals = new Animal[size];
+        } catch (InputMismatchException e) {
+            System.err.println("Input Error: you only need to enter numbers");
+        } catch (NegativeArraySizeException e) {
+            System.err.println("Input Error: you entered a negative integer value");
+        }
 
         Animal[] animals = new Animal[size];
         for (int i = 0; i < animals.length; i++) {
@@ -26,22 +30,27 @@ public class Main {
             System.out.println(animals[i].getName());
         }
 
-
         System.out.println("Choise action: 1.Fly, 2.Say, 3.Eat, 4.Swim.");
-        int choiseAction = scanner.nextInt();
-        for (int i = 0; i < animals.length; i++) {
 
+        int choiseAction = -1;
+        try {
+            choiseAction = scanner.nextInt();
+        } catch (InputMismatchException e) {
+            System.err.println("Input Error: you only need to enter numbers");
+        }
+
+        for (int i = 0; i < animals.length; i++) {
             if (choiseAction == 1) {
                 System.out.println(animals[i].getFly());
             } else if (choiseAction == 2) {
                 System.out.println(animals[i].getSay());
-            }else if (choiseAction==3){
+            } else if (choiseAction == 3) {
                 System.out.println(animals[i].getEat());
-            } else if (choiseAction==4) {
+            } else if (choiseAction == 4) {
                 System.out.println(animals[i].getSwim());
-            }else {
-                System.out.println("Choise error");
-              break;
+            } else {
+                System.err.println("Choise error");
+                break;
             }
         }
     }
