@@ -33,11 +33,17 @@ public class Main {
         System.out.println("Choise action: 1.Fly, 2.Say, 3.Eat, 4.Swim.");
 
         int choiseAction = -1;
-        try {
-            choiseAction = scanner.nextInt();
-        } catch (InputMismatchException e) {
-            System.err.println("Input Error: you only need to enter numbers");
-        }
+        boolean inPUTflag = false;
+        do {
+            try {
+                choiseAction = new Scanner(System.in).nextInt();
+            } catch (InputMismatchException e) {
+                System.err.println("Input Error: you only need to enter numbers");
+                continue;
+            }
+            inPUTflag=true;
+        }while (!inPUTflag);
+
 
         for (int i = 0; i < animals.length; i++) {
             if (choiseAction == 1) {
