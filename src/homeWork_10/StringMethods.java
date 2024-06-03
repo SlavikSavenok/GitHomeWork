@@ -28,12 +28,12 @@ public class StringMethods {
     }
 
     public static boolean getSubsequence(String doсument) {
-        return doсument.equalsIgnoreCase(String.valueOf(doсument.contains("abc")));
+        return doсument.contains("abc");
     }
 
     public static String getBigLetters(String doсument) {
         StringBuilder stringBuilder;
-        stringBuilder = new StringBuilder("4820-aPs-4871-Odh-1a2b");
+        stringBuilder = new StringBuilder(doсument);
         stringBuilder.delete(0, 5).delete(3, 9).delete(6, 8).deleteCharAt(7);
         stringBuilder.insert(3, "/").insert(7, "/").insert(9, "/");
         return "Letters:" + stringBuilder.toString().toUpperCase();
