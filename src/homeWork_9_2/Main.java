@@ -8,7 +8,6 @@ public class Main {
 
     }
     public boolean CheckException(String login, String password, String confirmPassword) throws WrongPasswordException, WrongLoginException {
-        try {
             if (login.length() > 20 || login.contains(" ")) {
                 throw new WrongLoginException();
             }
@@ -16,10 +15,5 @@ public class Main {
             if (password.length() > 20 || password.contains(" ") || !password.contains("1") || !password.equals(confirmPassword))
                 throw new WrongPasswordException();
             return true;
-
-        } catch (WrongPasswordException | WrongLoginException e) {
-            System.out.println(e.getMessage());
-            return false;
-        }
     }
 }
