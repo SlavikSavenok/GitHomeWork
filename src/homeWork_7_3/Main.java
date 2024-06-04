@@ -33,7 +33,7 @@ public class Main {
         System.out.println("Choise action: 1.Fly, 2.Say, 3.Eat, 4.Swim.");
 
         int choiseAction = -1;
-        boolean inPUTflag = false;
+        boolean inPutFlag = false;
         do {
             try {
                 choiseAction = new Scanner(System.in).nextInt();
@@ -41,8 +41,8 @@ public class Main {
                 System.err.println("Input Error: you only need to enter numbers");
                 continue;
             }
-            inPUTflag=true;
-        }while (!inPUTflag);
+            inPutFlag =true;
+        }while (!inPutFlag);
 
 
         for (int i = 0; i < animals.length; i++) {
