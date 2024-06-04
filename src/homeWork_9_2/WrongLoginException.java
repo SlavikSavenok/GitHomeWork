@@ -1,6 +1,6 @@
 package homeWork_9_2;
 
-public class WrongLoginException extends Throwable {
+public class WrongLoginException extends Exception {
 
     public WrongLoginException() {
     }
