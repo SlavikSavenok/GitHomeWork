@@ -1,6 +1,6 @@
 package homeWork_9_2;
 
-public class WrongPasswordException extends Throwable {
+public class WrongPasswordException extends Exception {
     public WrongPasswordException() {
     }
 

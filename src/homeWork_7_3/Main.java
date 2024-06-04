@@ -11,18 +11,19 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Select array size: ");
 
-        int size = -1;
+        int size = 0;
+        Animal[] animals = new Animal[size];
 
         try {
             size = scanner.nextInt();
-            Animal[] animals = new Animal[size];
+            animals = new Animal[size];
         } catch (InputMismatchException e) {
             System.err.println("Input Error: you only need to enter numbers");
         } catch (NegativeArraySizeException e) {
             System.err.println("Input Error: you entered a negative integer value");
         }
 
-        Animal[] animals = new Animal[size];
+        animals = new Animal[size];
         for (int i = 0; i < animals.length; i++) {
             animals[i] = choiseAnimal();
         }
