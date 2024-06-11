@@ -9,7 +9,7 @@ public class Main {
         String document;
         Set<String> documents = new HashSet<>();
 
-        System.out.println("Enter document numbers, to complete your entry, enter Done: ");
+        System.out.println("Enter document numbers. To complete your entry, enter 'Done': ");
 
         do {
             document = scanner.nextLine();
